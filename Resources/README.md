@@ -2,7 +2,7 @@
 ## Resource Lists
 [All Tech Club Resources](TechClub-General-Resources.md)
 
-[Day 1-3 Resources](TechClub-Day1_Day3-RESOURCES.md)
+[Day 2-3 Resources](TechClub-Day2_Day3-RESOURCES.md)
 
 ## Repository License
 [Creative Commons BY-NC-SA 4.0](https://github.com/siliconninja/TechClub-Curriculum-16-17/tree/master/LICENSE)
